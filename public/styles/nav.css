@@ -1,0 +1,17 @@
+nav {
+  display: flex;
+  justify-content: space-between;
+  height: 120px;
+  width: 100vw;
+  background-color: #4056a1;
+  color: #ffffff;
+  padding: 1.5em;
+}
+#navspan {
+  font-family: "Bungee";
+}
+.navicon {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
