@@ -1,0 +1,29 @@
+.tweet-button {
+  background-color: #4056a1;
+  color: #ffffff;
+  font-family: "Bungee";
+}
+
+.counter {
+  font-family: "Bungee";
+  align-items: center;
+}
+
+.button-output {
+  display: flex;
+  justify-content: space-between;
+  padding: 12px 0;
+}
+label {
+  font-weight: bold;
+}
+#tweet-text {
+  background-color: #f4f1ec;
+  display: block;
+  border: none;
+  outline: 0;
+  border-bottom: 2px solid black;
+  resize: none;
+  width: 100%;
+  height: 30px;
+}
